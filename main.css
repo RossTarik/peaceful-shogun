@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url("gradient_bg.png");
+  background-repeat: repeat-x; 
+ background-color: tomato
+  ;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+
+</style>
+</head>
+<body>
+
+
+<ul>
+  <li><a href="https://github.com/RossTarik/peaceful-shogun/blob/main/boards.html">Boards</a></li>
+  <li><a href="https://github.com/RossTarik/peaceful-shogun/blob/main/index.html">Index</a></li>
+</ul>
+
+<h1>Main.CSS</h1>
+</style>
+</head>
+<body>
+<style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+  margin-right: 200px;
+}
+</style>
+
+<div class="footer">
+  <p>Footer</p>
+</div>
+</body>
+</html>
+
+
